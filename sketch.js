@@ -28,7 +28,7 @@ function preload(){
   obstacle3 = loadImage("obstacle3.png");
   obstacle4 = loadImage("obstacle4.png");
   obstacle5 = loadImage("obstacle5.png");
-  obstacle6 = loadImage("obstacle6.png");S
+  obstacle6 = loadImage("obstacle6.png");
   
   gameOverImage = loadImage("gameOver.png");
   
